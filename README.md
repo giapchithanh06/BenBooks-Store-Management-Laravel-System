@@ -8,52 +8,6 @@ The project was built with **PHP 7.4, Laravel 8, MySQL, Blade and Bootstrap 5**,
 
 It also includes a mobile app for shippers and a set of **AI modules written in pure PHP** that run offline: recommendations, semantic search, a shopping chatbot, sentiment analysis, customer segmentation, sales forecasting and fraud detection.
 
-## 📸 Screenshots
-
-### 🛒 Customer Website
-
-| Home page | Book listing & filters |
-|---|---|
-| ![Home page](docs/screenshots/home.png) | ![Book listing](docs/screenshots/books.png) |
-
-| Book detail | Natural-language search |
-|---|---|
-| ![Book detail](docs/screenshots/book-detail.png) | ![Smart search](docs/screenshots/smart-search.png) |
-
-| Shopping cart | Checkout |
-|---|---|
-| ![Cart](docs/screenshots/cart.png) | ![Checkout](docs/screenshots/checkout.png) |
-
-| Payment gateway | Order tracking |
-|---|---|
-| ![Payment gateway](docs/screenshots/payment-gateway.png) | ![Order tracking](docs/screenshots/order-tracking.png) |
-
-| AI chatbot |  |
-|---|---|
-| ![Chatbot](docs/screenshots/chatbot.png) |  |
-
-### 👨‍💼 Admin Dashboard
-
-| Dashboard | Product management |
-|---|---|
-| ![Admin dashboard](docs/screenshots/admin-dashboard.png) | ![Admin books](docs/screenshots/admin-books.png) |
-
-| Order management | Customer segmentation |
-|---|---|
-| ![Admin orders](docs/screenshots/admin-orders.png) | ![Segments](docs/screenshots/ai-segments.png) |
-
-| Revenue & demand forecast | Fraud detection |
-|---|---|
-| ![Forecast](docs/screenshots/ai-forecast.png) | ![Anomalies](docs/screenshots/ai-anomalies.png) |
-
-| Sentiment analysis | Knowledge graph |
-|---|---|
-| ![Sentiment](docs/screenshots/ai-sentiment.png) | ![Knowledge graph](docs/screenshots/ai-graph.png) |
-
-### 🛵 Shipper Mobile App
-
-<p align="center"><img src="docs/screenshots/shipper-app.png" alt="Shipper app" width="300"></p>
-
 ## 🚀 Features
 
 ### 📖 Book Browsing
