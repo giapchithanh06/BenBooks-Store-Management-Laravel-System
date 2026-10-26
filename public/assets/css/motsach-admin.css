@@ -1,0 +1,64 @@
+/* =========================================================================
+   BenBooks – cầu nối các thành phần Bootstrap trong trang quản trị sang phong cách SmartBen
+   (card → ad-panel, table → ad-table, nút pill, badge → sb-pill)
+   ========================================================================= */
+.ad-main .card { background: #fff; border: 0; border-radius: var(--sb-radius); box-shadow: var(--sb-shadow-sm); }
+.ad-main .card-body { padding: 24px; }
+.ad-main .card h2.h6, .ad-main .ad-panel h2.h6 { font-family: var(--sb-display); font-size: 1.08rem; position: relative; padding-bottom: 10px; margin-bottom: 18px !important; }
+.ad-main .card h2.h6::after, .ad-main .ad-panel h2.h6::after { content: ""; position: absolute; left: 0; bottom: 0; width: 30px; height: 2px; background: var(--sb-primary); }
+.ad-main .card h2.h6.m-0::after { display: none; }
+
+/* bảng */
+.ad-main .table { --bs-table-hover-bg: #fcfcfc; font-size: .88rem; margin-bottom: .5rem; }
+.ad-main .table > thead th, .ad-main .table th { font-size: .76rem; color: var(--sb-navy); font-weight: 700; background: #efefef; white-space: nowrap; border-bottom: 0; text-transform: none; padding: 11px 12px; }
+.ad-main .table td { padding: 11px 12px; border-color: var(--sb-border); vertical-align: middle; }
+.ad-main .table-sm td, .ad-main .table-sm th { padding: 8px 10px; }
+
+/* nút */
+.ad-main .btn { border-radius: 50px; font-family: var(--sb-display); font-weight: 600; }
+.ad-main .btn-primary { background: var(--sb-primary); border-color: var(--sb-primary); }
+.ad-main .btn-primary:hover { background: var(--sb-navy); border-color: var(--sb-navy); }
+.ad-main .btn-outline-primary { color: var(--sb-primary); border-color: var(--sb-primary); }
+.ad-main .btn-outline-primary:hover { background: var(--sb-primary); color: #fff; }
+.ad-main .btn-sm.btn-outline-primary, .ad-main .btn-sm.btn-outline-danger, .ad-main .btn-sm.btn-outline-secondary, .ad-main .btn-sm.btn-light { width: 34px; height: 34px; padding: 0; display: inline-flex; align-items: center; justify-content: center; }
+.ad-main .btn-sm.btn-outline-primary.w-100, .ad-main .btn-sm.btn-outline-secondary.w-100 { width: 100% !important; }
+.ad-main .btn-secondary { background: var(--sb-navy); border-color: var(--sb-navy); }
+.ad-main .form-control, .ad-main .form-select { border-radius: 3px; border-color: #ddd; }
+.ad-main .form-control-sm, .ad-main .form-select-sm { min-height: 36px; }
+.ad-main .form-check-input:checked { background-color: var(--sb-primary); border-color: var(--sb-primary); }
+
+/* badge → pill */
+.ad-main .badge { border-radius: 50px; font-weight: 700; padding: .38em .8em; }
+.ad-main .text-bg-success { background: var(--sb-green-soft) !important; color: var(--sb-green-dark) !important; }
+.ad-main .text-bg-danger { background: var(--sb-red-soft) !important; color: var(--sb-red) !important; }
+.ad-main .text-bg-warning { background: var(--sb-yellow-soft) !important; color: #8a6100 !important; }
+.ad-main .text-bg-info { background: #F1ECFF !important; color: var(--sb-purple) !important; }
+.ad-main .text-bg-primary { background: var(--sb-blue-soft) !important; color: var(--sb-blue) !important; }
+.ad-main .text-bg-secondary { background: #EEF0F3 !important; color: #4B5565 !important; }
+.ad-main .text-bg-dark { background: var(--sb-navy) !important; color: #fff !important; }
+.ad-main .text-bg-light { background: var(--sb-gray) !important; color: var(--sb-navy) !important; }
+
+/* tab trạng thái → chip */
+.ad-main .nav-pills { gap: 8px; flex-wrap: wrap; }
+.ad-main .nav-pills .nav-link { border-radius: 50px; border: 2px solid var(--sb-navy); color: #323232; font-weight: 700; padding: 5px 14px; background: #fff; }
+.ad-main .nav-pills .nav-link.active { background: var(--sb-primary); border-color: var(--sb-primary); color: #fff; }
+
+/* thẻ số liệu cũ */
+.ad-main .kpi { background: #fff; border-radius: var(--sb-radius); padding: 18px 20px; box-shadow: var(--sb-shadow-sm); height: 100%; display: block; }
+.ad-main .kpi small { color: var(--sb-muted); font-weight: 600; }
+.ad-main .alert { border-radius: var(--sb-radius); border: 0; border-left: 4px solid var(--sb-primary); }
+.ad-main .alert-light { background: #fff; box-shadow: var(--sb-shadow-sm); }
+.ad-main .progress { border-radius: 99px; background: var(--sb-gray); }
+.ad-main .progress-bar { background-color: var(--sb-primary); }
+.ad-main .progress-bar.bg-danger { background-color: var(--sb-red) !important; }
+.ad-main .progress-bar.bg-warning { background-color: var(--sb-yellow) !important; }
+.ad-main .modal-content { border-radius: var(--sb-radius); border: 0; }
+.ad-main code { color: var(--sb-primary); }
+.ad-main .sb-pagination { margin-top: 20px; }
+.ad-main .timeline { list-style: none; padding-left: 1.2rem; border-left: 2px solid var(--sb-border); }
+.ad-main .timeline li { position: relative; margin-bottom: 1rem; }
+.ad-main .timeline li::before { content: ""; position: absolute; left: -1.65rem; top: .3rem; width: .85rem; height: .85rem; border-radius: 50%; background: var(--sb-primary); box-shadow: 0 0 0 4px var(--sb-primary-soft); }
+.ad-main .badge-flash { background: var(--sb-yellow-soft); color: #8a6100; }
+.ad-main .text-primary { color: var(--sb-primary) !important; }
+.sb-stars i { margin-right: 1px; }
+.ad-main .sb-stars, .ad-main .text-warning { color: var(--sb-yellow) !important; }

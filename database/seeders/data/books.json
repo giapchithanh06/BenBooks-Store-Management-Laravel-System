@@ -1,0 +1,993 @@
+[
+ {
+  "title": "Mắt Biếc",
+  "slug": "mat-biec",
+  "category": "van-hoc",
+  "authors": [
+   "Nguyễn Nhật Ánh"
+  ],
+  "publisher": "NXB Trẻ",
+  "year": 2019,
+  "pages": 300,
+  "cover": "mat-biec.png",
+  "variants": [
+   {
+    "name": "Bìa mềm",
+    "price": 110000,
+    "original_price": 126000,
+    "stock": 60
+   },
+   {
+    "name": "Bìa cứng",
+    "price": 170000,
+    "original_price": null,
+    "stock": 15
+   }
+  ],
+  "description": "Câu chuyện tình đơn phương day dứt của Ngạn dành cho Hà Lan, cô bạn có đôi mắt biếc từ thuở nhỏ ở làng Đo Đo. Một tiểu thuyết lãng mạn, buồn và đầy hoài niệm về tuổi trẻ, làng quê.",
+  "tags": "tình yêu, lãng mạn, tuổi học trò, hoài niệm, làng quê",
+  "isbn": "9786041000000",
+  "featured": true
+ },
+ {
+  "title": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+  "slug": "toi-thay-hoa-vang-tren-co-xanh",
+  "category": "van-hoc",
+  "authors": [
+   "Nguyễn Nhật Ánh"
+  ],
+  "publisher": "NXB Trẻ",
+  "year": 2018,
+  "pages": 378,
+  "cover": "toi-thay-hoa-vang-tren-co-xanh.png",
+  "variants": [
+   {
+    "name": "Bìa mềm",
+    "price": 125000,
+    "original_price": 144000,
+    "stock": 60
+   },
+   {
+    "name": "Bìa cứng",
+    "price": 185000,
+    "original_price": null,
+    "stock": 15
+   }
+  ],
+  "description": "Tuổi thơ của hai anh em Thiều và Tường ở một làng quê nghèo miền Trung với những rung động đầu đời, ghen tị và tình thân. Văn chương trong trẻo, cảm động.",
+  "tags": "tuổi thơ, làng quê, tình anh em, cảm động",
+  "isbn": "9786041007919",
+  "featured": false
+ },
+ {
+  "title": "Cho Tôi Xin Một Vé Đi Tuổi Thơ",
+  "slug": "cho-toi-xin-mot-ve-di-tuoi-tho",
+  "category": "van-hoc",
+  "authors": [
+   "Nguyễn Nhật Ánh"
+  ],
+  "publisher": "NXB Trẻ",
+  "year": 2018,
+  "pages": 220,
+  "cover": "cho-toi-xin-mot-ve-di-tuoi-tho.png",
+  "variants": [
+   {
+    "name": "Bìa mềm",
+    "price": 85000,
+    "original_price": 98000,
+    "stock": 60
+   }
+  ],
+  "description": "Một chuyến tàu ngược về tuổi thơ qua góc nhìn hóm hỉnh của cậu bé Mũi Lõ và nhóm bạn. Cuốn sách dành cho người lớn muốn nhớ lại mình từng là trẻ con.",
+  "tags": "tuổi thơ, hài hước, nhẹ nhàng, hoài niệm",
+  "isbn": "9786041015838",
+  "featured": false
+ },
+ {
+  "title": "Nhà Giả Kim",
+  "slug": "nha-gia-kim",
+  "category": "van-hoc",
+  "authors": [
+   "Paulo Coelho"
+  ],
+  "publisher": "Nhã Nam",
+  "year": 2020,
+  "pages": 228,
+  "cover": "nha-gia-kim.png",
+  "variants": [
+   {
+    "name": "Bìa mềm",
+    "price": 79000,
+    "original_price": 91000,
+    "stock": 60
+   },
+   {
+    "name": "Bìa cứng",
+    "price": 139000,
+    "original_price": null,
+    "stock": 15
+   }
+  ],
+  "description": "Hành trình của chàng chăn cừu Santiago theo đuổi giấc mơ tìm kho báu, qua đó học cách lắng nghe trái tim và theo đuổi vận mệnh của mình. Tác phẩm truyền cảm hứng nổi tiếng toàn cầu.",
+  "tags": "ước mơ, truyền cảm hứng, hành trình, triết lý sống",
+  "isbn": "9786041023757",
+  "featured": true
+ },
+ {
+  "title": "Rừng Na Uy",
+  "slug": "rung-na-uy",
+  "category": "van-hoc",
+  "authors": [
+   "Haruki Murakami"
+  ],
+  "publisher": "Nhã Nam",
+  "year": 2019,
+  "pages": 560,
+  "cover": "rung-na-uy.png",
+  "variants": [
+   {
+    "name": "Bìa mềm",
+    "price": 158000,
+    "original_price": 182000,
+    "stock": 60
+   }
+  ],
+  "description": "Tiểu thuyết về tuổi trẻ, tình yêu và mất mát ở Tokyo cuối thập niên 60 qua hồi ức của Toru Watanabe. Giọng văn trầm lắng, cô đơn, sâu sắc.",
+  "tags": "tình yêu, cô đơn, tuổi trẻ, văn học Nhật Bản",
+  "isbn": "9786041031676",
+  "featured": false
+ },
+ {
+  "title": "Số Đỏ",
+  "slug": "so-do",
+  "category": "van-hoc",
+  "authors": [
+   "Vũ Trọng Phụng"
+  ],
+  "publisher": "NXB Văn Học",
+  "year": 2017,
+  "pages": 256,
+  "cover": "so-do.png",
+  "variants": [
+   {
+    "name": "Bìa mềm",
+    "price": 68000,
+    "original_price": 78000,
+    "stock": 60
+   }
+  ],
+  "description": "Tiểu thuyết trào phúng kinh điển của văn học Việt Nam, kể về Xuân Tóc Đỏ leo thang trong xã hội thượng lưu thành thị, châm biếm lối sống Âu hóa nửa mùa.",
+  "tags": "trào phúng, hài hước, văn học kinh điển, châm biếm",
+  "isbn": "9786041039595",
+  "featured": false
+ },
+ {
+  "title": "Cha Giàu Cha Nghèo",
+  "slug": "cha-giau-cha-ngheo",
+  "category": "kinh-te",
+  "authors": [
+   "Robert Kiyosaki"
+  ],
+  "publisher": "NXB Trẻ",
+  "year": 2021,
+  "pages": 396,
+  "cover": "cha-giau-cha-ngheo.png",
+  "variants": [
+   {
+    "name": "Bìa mềm",
+    "price": 155000,
+    "original_price": 178000,
+    "stock": 60
+   }
+  ],
+  "description": "So sánh tư duy tiền bạc của hai người cha để giúp người đọc hiểu về tài sản, tiêu sản, dòng tiền và cách để tiền làm việc cho mình. Sách nhập môn tài chính cá nhân.",
+  "tags": "tài chính cá nhân, làm giàu, đầu tư, tiền bạc",
+  "isbn": "9786041047514",
+  "featured": false
+ },
+ {
+  "title": "Nghĩ Giàu Và Làm Giàu",
+  "slug": "nghi-giau-va-lam-giau",
+  "category": "kinh-te",
+  "authors": [
+   "Napoleon Hill"
+  ],
+  "publisher": "First News",
+  "year": 2020,
+  "pages": 388,
+  "cover": "nghi-giau-va-lam-giau.png",
+  "variants": [
+   {
+    "name": "Bìa mềm",
+    "price": 118000,
+    "original_price": 136000,
+    "stock": 60
+   }
+  ],
+  "description": "Tổng hợp các nguyên tắc thành công rút ra từ hàng trăm người giàu có: khát vọng, niềm tin, kiên trì và lập kế hoạch. Một cuốn sách kinh điển về tư duy làm giàu.",
+  "tags": "làm giàu, thành công, tư duy, khởi nghiệp",
+  "isbn": "9786041055433",
+  "featured": false
+ },
+ {
+  "title": "Từ Tốt Đến Vĩ Đại",
+  "slug": "tu-tot-den-vi-dai",
+  "category": "kinh-te",
+  "authors": [
+   "Jim Collins"
+  ],
+  "publisher": "NXB Trẻ",
+  "year": 2019,
+  "pages": 452,
+  "cover": "tu-tot-den-vi-dai.png",
+  "variants": [
+   {
+    "name": "Bìa mềm",
+    "price": 170000,
+    "original_price": 195000,
+    "stock": 60
+   },
+   {
+    "name": "Bìa cứng",
+    "price": 230000,
+    "original_price": null,
+    "stock": 15
+   }
+  ],
+  "description": "Nghiên cứu vì sao một số công ty bứt phá từ tốt trở thành vĩ đại: lãnh đạo cấp độ 5, đúng người đúng việc, văn hóa kỷ luật. Sách quản trị kinh doanh nền tảng.",
+  "tags": "quản trị, kinh doanh, lãnh đạo, doanh nghiệp",
+  "isbn": "9786041063352",
+  "featured": false
+ },
+ {
+  "title": "Đắc Nhân Tâm",
+  "slug": "dac-nhan-tam",
+  "category": "ky-nang-song",
+  "authors": [
+   "Dale Carnegie"
+  ],
+  "publisher": "First News",
+  "year": 2021,
+  "pages": 320,
+  "cover": "dac-nhan-tam.png",
+  "variants": [
+   {
+    "name": "Bìa mềm",
+    "price": 86000,
+    "original_price": 99000,
+    "stock": 60
+   },
+   {
+    "name": "Bìa cứng",
+    "price": 146000,
+    "original_price": null,
+    "stock": 15
+   }
+  ],
+  "description": "Nghệ thuật giao tiếp và ứng xử để được lòng người: biết lắng nghe, khen ngợi chân thành, tránh chỉ trích. Cuốn sách kỹ năng sống bán chạy hàng đầu mọi thời đại.",
+  "tags": "giao tiếp, ứng xử, kỹ năng mềm, quan hệ",
+  "isbn": "9786041071271",
+  "featured": true
+ },
+ {
+  "title": "Thay Đổi Tí Hon, Hiệu Quả Bất Ngờ",
+  "slug": "thay-doi-ti-hon-hieu-qua-bat-ngo",
+  "category": "ky-nang-song",
+  "authors": [
+   "James Clear"
+  ],
+  "publisher": "Alpha Books",
+  "year": 2022,
+  "pages": 320,
+  "cover": "thay-doi-ti-hon-hieu-qua-bat-ngo.png",
+  "variants": [
+   {
+    "name": "Bìa mềm",
+    "price": 189000,
+    "original_price": 217000,
+    "stock": 60
+   }
+  ],
+  "description": "Hướng dẫn xây dựng thói quen tốt và loại bỏ thói quen xấu bằng những thay đổi rất nhỏ mỗi ngày, dựa trên bốn quy luật hình thành thói quen.",
+  "tags": "thói quen, phát triển bản thân, năng suất, kỷ luật",
+  "isbn": "9786041079190",
+  "featured": false
+ },
+ {
+  "title": "Tuổi Trẻ Đáng Giá Bao Nhiêu",
+  "slug": "tuoi-tre-dang-gia-bao-nhieu",
+  "category": "ky-nang-song",
+  "authors": [
+   "Rosie Nguyễn"
+  ],
+  "publisher": "Nhã Nam",
+  "year": 2018,
+  "pages": 292,
+  "cover": "tuoi-tre-dang-gia-bao-nhieu.png",
+  "variants": [
+   {
+    "name": "Bìa mềm",
+    "price": 90000,
+    "original_price": 103000,
+    "stock": 60
+   }
+  ],
+  "description": "Những chia sẻ về học tập, đọc sách, du lịch, làm việc và sống hết mình ở tuổi hai mươi dành cho người trẻ Việt Nam.",
+  "tags": "người trẻ, phát triển bản thân, du lịch, học tập",
+  "isbn": "9786041087109",
+  "featured": false
+ },
+ {
+  "title": "Đời Ngắn Đừng Ngủ Dài",
+  "slug": "doi-ngan-dung-ngu-dai",
+  "category": "ky-nang-song",
+  "authors": [
+   "Robin Sharma"
+  ],
+  "publisher": "NXB Trẻ",
+  "year": 2017,
+  "pages": 232,
+  "cover": "doi-ngan-dung-ngu-dai.png",
+  "variants": [
+   {
+    "name": "Bìa mềm",
+    "price": 75000,
+    "original_price": 86000,
+    "stock": 60
+   }
+  ],
+  "description": "Hơn 100 lời khuyên ngắn gọn giúp sống ý nghĩa, bình an và trọn vẹn hơn mỗi ngày.",
+  "tags": "triết lý sống, bình an, động lực, ý nghĩa cuộc sống",
+  "isbn": "9786041095028",
+  "featured": false
+ },
+ {
+  "title": "Dế Mèn Phiêu Lưu Ký",
+  "slug": "de-men-phieu-luu-ky",
+  "category": "thieu-nhi",
+  "authors": [
+   "Tô Hoài"
+  ],
+  "publisher": "NXB Kim Đồng",
+  "year": 2020,
+  "pages": 144,
+  "cover": "de-men-phieu-luu-ky.png",
+  "variants": [
+   {
+    "name": "Bìa mềm",
+    "price": 50000,
+    "original_price": 57000,
+    "stock": 60
+   },
+   {
+    "name": "Bìa cứng",
+    "price": 110000,
+    "original_price": null,
+    "stock": 15
+   }
+  ],
+  "description": "Cuộc phiêu lưu của chú Dế Mèn qua thế giới loài vật, học được bài học về sự khiêm tốn, tình bạn và lòng dũng cảm. Tác phẩm thiếu nhi kinh điển Việt Nam.",
+  "tags": "thiếu nhi, phiêu lưu, loài vật, bài học, kinh điển",
+  "isbn": "9786041102947",
+  "featured": false
+ },
+ {
+  "title": "Hoàng Tử Bé",
+  "slug": "hoang-tu-be",
+  "category": "thieu-nhi",
+  "authors": [
+   "Antoine de Saint-Exupéry"
+  ],
+  "publisher": "Nhã Nam",
+  "year": 2019,
+  "pages": 104,
+  "cover": "hoang-tu-be.png",
+  "variants": [
+   {
+    "name": "Bìa mềm",
+    "price": 65000,
+    "original_price": 75000,
+    "stock": 60
+   },
+   {
+    "name": "Bìa cứng",
+    "price": 125000,
+    "original_price": null,
+    "stock": 15
+   }
+  ],
+  "description": "Hoàng tử bé rời tiểu tinh cầu đi khắp các hành tinh và gặp người phi công giữa sa mạc. Câu chuyện đẹp về tình bạn, tình yêu và cách nhìn thế giới bằng trái tim.",
+  "tags": "thiếu nhi, triết lý, tình bạn, cổ tích hiện đại",
+  "isbn": "9786041110866",
+  "featured": false
+ },
+ {
+  "title": "Kính Vạn Hoa - Tập 1",
+  "slug": "kinh-van-hoa-tap-1",
+  "category": "thieu-nhi",
+  "authors": [
+   "Nguyễn Nhật Ánh"
+  ],
+  "publisher": "NXB Kim Đồng",
+  "year": 2021,
+  "pages": 280,
+  "cover": "kinh-van-hoa-tap-1.png",
+  "variants": [
+   {
+    "name": "Bìa mềm",
+    "price": 95000,
+    "original_price": 109000,
+    "stock": 60
+   }
+  ],
+  "description": "Những câu chuyện học trò vui nhộn của Quý ròm, nhỏ Hạnh và Tiểu Long, ba người bạn thông minh, tốt bụng, phá án và giúp đỡ mọi người.",
+  "tags": "thiếu nhi, học trò, tình bạn, phá án, hài hước",
+  "isbn": "9786041118785",
+  "featured": false
+ },
+ {
+  "title": "Lược Sử Thời Gian",
+  "slug": "luoc-su-thoi-gian",
+  "category": "khoa-hoc",
+  "authors": [
+   "Stephen Hawking"
+  ],
+  "publisher": "NXB Trẻ",
+  "year": 2020,
+  "pages": 288,
+  "cover": "luoc-su-thoi-gian.png",
+  "variants": [
+   {
+    "name": "Bìa mềm",
+    "price": 115000,
+    "original_price": 132000,
+    "stock": 60
+   }
+  ],
+  "description": "Giải thích dễ hiểu về vũ trụ: Big Bang, lỗ đen, thời gian và không gian, dành cho độc giả phổ thông yêu khoa học.",
+  "tags": "vũ trụ, vật lý, thiên văn, lỗ đen, khoa học phổ thông",
+  "isbn": "9786041126704",
+  "featured": false
+ },
+ {
+  "title": "Sapiens: Lược Sử Loài Người",
+  "slug": "sapiens-luoc-su-loai-nguoi",
+  "category": "khoa-hoc",
+  "authors": [
+   "Yuval Noah Harari"
+  ],
+  "publisher": "Omega Plus",
+  "year": 2021,
+  "pages": 560,
+  "cover": "sapiens-luoc-su-loai-nguoi.png",
+  "variants": [
+   {
+    "name": "Bìa mềm",
+    "price": 239000,
+    "original_price": 275000,
+    "stock": 60
+   },
+   {
+    "name": "Bìa cứng",
+    "price": 299000,
+    "original_price": null,
+    "stock": 15
+   }
+  ],
+  "description": "Lịch sử loài người từ thời săn bắt hái lượm qua cách mạng nông nghiệp, thống nhất nhân loại đến cách mạng khoa học.",
+  "tags": "lịch sử loài người, nhân học, tiến hóa, xã hội",
+  "isbn": "9786041134623",
+  "featured": true
+ },
+ {
+  "title": "Vũ Trụ",
+  "slug": "vu-tru",
+  "category": "khoa-hoc",
+  "authors": [
+   "Carl Sagan"
+  ],
+  "publisher": "Nhã Nam",
+  "year": 2019,
+  "pages": 520,
+  "cover": "vu-tru.png",
+  "variants": [
+   {
+    "name": "Bìa mềm",
+    "price": 198000,
+    "original_price": 228000,
+    "stock": 60
+   }
+  ],
+  "description": "Hành trình khám phá vũ trụ, các thiên hà, sự sống và vị trí của con người trong không gian bao la.",
+  "tags": "vũ trụ, thiên văn, khoa học, khám phá",
+  "isbn": "9786041142542",
+  "featured": false
+ },
+ {
+  "title": "Việt Nam Sử Lược",
+  "slug": "viet-nam-su-luoc",
+  "category": "lich-su",
+  "authors": [
+   "Trần Trọng Kim"
+  ],
+  "publisher": "NXB Văn Học",
+  "year": 2018,
+  "pages": 624,
+  "cover": "viet-nam-su-luoc.png",
+  "variants": [
+   {
+    "name": "Bìa mềm",
+    "price": 180000,
+    "original_price": 207000,
+    "stock": 60
+   },
+   {
+    "name": "Bìa cứng",
+    "price": 240000,
+    "original_price": null,
+    "stock": 15
+   }
+  ],
+  "description": "Bộ sử Việt Nam viết bằng chữ quốc ngữ, trình bày lịch sử dân tộc từ thời thượng cổ đến thời Pháp thuộc.",
+  "tags": "lịch sử Việt Nam, sử học, dân tộc",
+  "isbn": "9786041150461",
+  "featured": false
+ },
+ {
+  "title": "Doraemon - Tập 1",
+  "slug": "doraemon-tap-1",
+  "category": "manga",
+  "authors": [
+   "Fujiko F. Fujio"
+  ],
+  "publisher": "NXB Kim Đồng",
+  "year": 2022,
+  "pages": 192,
+  "cover": "doraemon-tap-1.png",
+  "variants": [
+   {
+    "name": "Bản thường",
+    "price": 25000,
+    "original_price": 29000,
+    "stock": 60
+   }
+  ],
+  "description": "Chú mèo máy Doraemon đến từ thế kỷ 22 cùng túi bảo bối giúp cậu bé Nobita vụng về. Bộ truyện tranh thiếu nhi vui nhộn, giàu trí tưởng tượng.",
+  "tags": "truyện tranh thiếu nhi, hài hước, viễn tưởng, mèo máy",
+  "isbn": "9786041158380",
+  "featured": true
+ },
+ {
+  "title": "Thám Tử Lừng Danh Conan - Tập 100",
+  "slug": "tham-tu-lung-danh-conan-tap-100",
+  "category": "manga",
+  "authors": [
+   "Gosho Aoyama"
+  ],
+  "publisher": "NXB Kim Đồng",
+  "year": 2022,
+  "pages": 184,
+  "cover": "tham-tu-lung-danh-conan-tap-100.png",
+  "variants": [
+   {
+    "name": "Bản thường",
+    "price": 25000,
+    "original_price": 29000,
+    "stock": 60
+   },
+   {
+    "name": "Bản đặc biệt",
+    "price": 45000,
+    "original_price": null,
+    "stock": 15
+   }
+  ],
+  "description": "Cậu thám tử trung học Kudo Shinichi bị teo nhỏ thành Conan, tiếp tục phá giải các vụ án hóc búa. Manga trinh thám nổi tiếng.",
+  "tags": "trinh thám, phá án, thám tử, bí ẩn",
+  "isbn": "9786041166299",
+  "featured": true
+ },
+ {
+  "title": "One Piece - Tập 105",
+  "slug": "one-piece-tap-105",
+  "category": "manga",
+  "authors": [
+   "Eiichiro Oda"
+  ],
+  "publisher": "NXB Kim Đồng",
+  "year": 2023,
+  "pages": 200,
+  "cover": "one-piece-tap-105.png",
+  "variants": [
+   {
+    "name": "Bản thường",
+    "price": 25000,
+    "original_price": 29000,
+    "stock": 60
+   },
+   {
+    "name": "Bản đặc biệt",
+    "price": 45000,
+    "original_price": null,
+    "stock": 15
+   }
+  ],
+  "description": "Luffy và băng hải tặc Mũ Rơm tiếp tục hành trình tìm kho báu One Piece. Manga phiêu lưu hành động về tình bạn và ước mơ.",
+  "tags": "phiêu lưu, hành động, hải tặc, tình bạn, shounen",
+  "isbn": "9786041174218",
+  "featured": true
+ },
+ {
+  "title": "Naruto - Tập 72",
+  "slug": "naruto-tap-72",
+  "category": "manga",
+  "authors": [
+   "Masashi Kishimoto"
+  ],
+  "publisher": "NXB Kim Đồng",
+  "year": 2020,
+  "pages": 192,
+  "cover": "naruto-tap-72.png",
+  "variants": [
+   {
+    "name": "Bản thường",
+    "price": 22000,
+    "original_price": 25000,
+    "stock": 60
+   }
+  ],
+  "description": "Tập cuối của hành trình cậu ninja Naruto trở thành Hokage, khép lại cuộc chiến và tình bạn với Sasuke.",
+  "tags": "ninja, hành động, shounen, tình bạn",
+  "isbn": "9786041182137",
+  "featured": false
+ },
+ {
+  "title": "Dragon Ball - Tập 1",
+  "slug": "dragon-ball-tap-1",
+  "category": "manga",
+  "authors": [
+   "Akira Toriyama"
+  ],
+  "publisher": "NXB Kim Đồng",
+  "year": 2021,
+  "pages": 196,
+  "cover": "dragon-ball-tap-1.png",
+  "variants": [
+   {
+    "name": "Bản thường",
+    "price": 22000,
+    "original_price": 25000,
+    "stock": 60
+   },
+   {
+    "name": "Bản đặc biệt",
+    "price": 42000,
+    "original_price": null,
+    "stock": 15
+   }
+  ],
+  "description": "Cậu bé đuôi khỉ Son Goku gặp Bulma và bắt đầu hành trình tìm bảy viên ngọc rồng. Manga võ thuật phiêu lưu kinh điển.",
+  "tags": "võ thuật, phiêu lưu, hành động, shounen, kinh điển",
+  "isbn": "9786041190056",
+  "featured": false
+ },
+ {
+  "title": "Spy x Family - Tập 1",
+  "slug": "spy-x-family-tap-1",
+  "category": "manga",
+  "authors": [
+   "Tatsuya Endo"
+  ],
+  "publisher": "NXB Kim Đồng",
+  "year": 2022,
+  "pages": 216,
+  "cover": "spy-x-family-tap-1.png",
+  "variants": [
+   {
+    "name": "Bản thường",
+    "price": 30000,
+    "original_price": 34000,
+    "stock": 60
+   },
+   {
+    "name": "Bản đặc biệt",
+    "price": 50000,
+    "original_price": null,
+    "stock": 15
+   }
+  ],
+  "description": "Điệp viên, sát thủ và cô bé đọc được suy nghĩ cùng sống trong một gia đình giả. Manga hài hước, hành động, ấm áp.",
+  "tags": "điệp viên, gia đình, hài hước, hành động",
+  "isbn": "9786041197975",
+  "featured": false
+ },
+ {
+  "title": "Chainsaw Man - Tập 1",
+  "slug": "chainsaw-man-tap-1",
+  "category": "manga",
+  "authors": [
+   "Tatsuki Fujimoto"
+  ],
+  "publisher": "NXB Trẻ",
+  "year": 2023,
+  "pages": 192,
+  "cover": "chainsaw-man-tap-1.png",
+  "variants": [
+   {
+    "name": "Bản thường",
+    "price": 40000,
+    "original_price": 46000,
+    "stock": 60
+   }
+  ],
+  "description": "Denji, chàng trai nghèo hợp nhất với quỷ cưa máy, trở thành thợ săn quỷ. Manga hành động kinh dị dành cho tuổi trưởng thành.",
+  "tags": "kinh dị, hành động, săn quỷ, dark fantasy",
+  "isbn": "9786041205894",
+  "featured": false
+ },
+ {
+  "title": "Jujutsu Kaisen - Tập 1",
+  "slug": "jujutsu-kaisen-tap-1",
+  "category": "manga",
+  "authors": [
+   "Gege Akutami"
+  ],
+  "publisher": "NXB Kim Đồng",
+  "year": 2023,
+  "pages": 192,
+  "cover": "jujutsu-kaisen-tap-1.png",
+  "variants": [
+   {
+    "name": "Bản thường",
+    "price": 35000,
+    "original_price": 40000,
+    "stock": 60
+   },
+   {
+    "name": "Bản đặc biệt",
+    "price": 55000,
+    "original_price": null,
+    "stock": 15
+   }
+  ],
+  "description": "Itadori Yuji nuốt ngón tay của Lưỡng Diện Túc Na và bước vào thế giới chú thuật sư chống lại nguyền hồn.",
+  "tags": "chú thuật, hành động, siêu nhiên, shounen",
+  "isbn": "9786041213813",
+  "featured": false
+ },
+ {
+  "title": "Attack On Titan - Tập 1",
+  "slug": "attack-on-titan-tap-1",
+  "category": "manga",
+  "authors": [
+   "Hajime Isayama"
+  ],
+  "publisher": "IPM",
+  "year": 2021,
+  "pages": 192,
+  "cover": "attack-on-titan-tap-1.png",
+  "variants": [
+   {
+    "name": "Bản thường",
+    "price": 35000,
+    "original_price": 40000,
+    "stock": 60
+   }
+  ],
+  "description": "Nhân loại sống sau những bức tường khổng lồ để trốn tránh Titan ăn thịt người. Eren quyết tâm tiêu diệt Titan sau bi kịch gia đình.",
+  "tags": "hành động, kinh dị, giả tưởng, chiến tranh",
+  "isbn": "9786041221732",
+  "featured": false
+ },
+ {
+  "title": "Solo Leveling - Tập 1",
+  "slug": "solo-leveling-tap-1",
+  "category": "manhwa",
+  "authors": [
+   "Chugong"
+  ],
+  "publisher": "IPM",
+  "year": 2022,
+  "pages": 280,
+  "cover": "solo-leveling-tap-1.png",
+  "variants": [
+   {
+    "name": "Bản thường",
+    "price": 135000,
+    "original_price": 155000,
+    "stock": 60
+   },
+   {
+    "name": "Bản đặc biệt",
+    "price": 155000,
+    "original_price": null,
+    "stock": 15
+   }
+  ],
+  "description": "Thợ săn hạng E yếu nhất Sung Jin-Woo nhận được hệ thống bí ẩn giúp anh thăng cấp không giới hạn. Manhwa hành động màu nổi tiếng Hàn Quốc.",
+  "tags": "hành động, thăng cấp, game, giả tưởng, Hàn Quốc",
+  "isbn": "9786041229651",
+  "featured": true
+ },
+ {
+  "title": "Tòa Tháp Bí Ẩn - Tập 1",
+  "slug": "toa-thap-bi-an-tap-1",
+  "category": "manhwa",
+  "authors": [
+   "SIU"
+  ],
+  "publisher": "IPM",
+  "year": 2023,
+  "pages": 264,
+  "cover": "toa-thap-bi-an-tap-1.png",
+  "variants": [
+   {
+    "name": "Bản thường",
+    "price": 120000,
+    "original_price": 138000,
+    "stock": 60
+   }
+  ],
+  "description": "Bam bước vào tòa tháp bí ẩn để tìm lại Rachel, nơi mỗi tầng là một thử thách sinh tử. Manhwa giả tưởng phiêu lưu.",
+  "tags": "giả tưởng, phiêu lưu, thử thách, Hàn Quốc",
+  "isbn": "9786041237570",
+  "featured": false
+ },
+ {
+  "title": "Đấu Phá Thương Khung - Tập 1",
+  "slug": "dau-pha-thuong-khung-tap-1",
+  "category": "manhua",
+  "authors": [
+   "Thiên Tằm Thổ Đậu"
+  ],
+  "publisher": "NXB Hồng Đức",
+  "year": 2022,
+  "pages": 176,
+  "cover": "dau-pha-thuong-khung-tap-1.png",
+  "variants": [
+   {
+    "name": "Bản thường",
+    "price": 45000,
+    "original_price": 52000,
+    "stock": 60
+   }
+  ],
+  "description": "Tiêu Viêm từ thiên tài sa sút đến hành trình tu luyện đấu khí trở lại đỉnh cao. Manhua tu tiên huyền huyễn Trung Quốc.",
+  "tags": "tu tiên, huyền huyễn, võ thuật, Trung Quốc",
+  "isbn": "9786041245489",
+  "featured": false
+ },
+ {
+  "title": "Toàn Chức Cao Thủ - Tập 1",
+  "slug": "toan-chuc-cao-thu-tap-1",
+  "category": "manhua",
+  "authors": [
+   "Hồ Điệp Lam"
+  ],
+  "publisher": "NXB Hồng Đức",
+  "year": 2023,
+  "pages": 180,
+  "cover": "toan-chuc-cao-thu-tap-1.png",
+  "variants": [
+   {
+    "name": "Bản thường",
+    "price": 48000,
+    "original_price": 55000,
+    "stock": 60
+   }
+  ],
+  "description": "Diệp Tu, cao thủ game Vinh Quang bị đuổi khỏi đội, làm lại từ đầu ở một quán net. Manhua về thể thao điện tử.",
+  "tags": "game, esports, thể thao điện tử, Trung Quốc",
+  "isbn": "9786041253408",
+  "featured": false
+ },
+ {
+  "title": "Batman: Năm Thứ Nhất",
+  "slug": "batman-nam-thu-nhat",
+  "category": "comic",
+  "authors": [
+   "Frank Miller"
+  ],
+  "publisher": "IPM",
+  "year": 2020,
+  "pages": 144,
+  "cover": "batman-nam-thu-nhat.png",
+  "variants": [
+   {
+    "name": "Bản thường",
+    "price": 145000,
+    "original_price": 167000,
+    "stock": 60
+   },
+   {
+    "name": "Bản đặc biệt",
+    "price": 165000,
+    "original_price": null,
+    "stock": 15
+   }
+  ],
+  "description": "Năm đầu tiên Bruce Wayne khoác áo Batman và James Gordon đến Gotham, cùng chống lại tội phạm và tham nhũng.",
+  "tags": "siêu anh hùng, comic Mỹ, hành động, trinh thám",
+  "isbn": "9786041261327",
+  "featured": false
+ },
+ {
+  "title": "Tintin - Bông Sen Xanh",
+  "slug": "tintin-bong-sen-xanh",
+  "category": "comic",
+  "authors": [
+   "Hergé"
+  ],
+  "publisher": "NXB Kim Đồng",
+  "year": 2019,
+  "pages": 64,
+  "cover": "tintin-bong-sen-xanh.png",
+  "variants": [
+   {
+    "name": "Bản thường",
+    "price": 45000,
+    "original_price": 52000,
+    "stock": 60
+   }
+  ],
+  "description": "Phóng viên Tintin và chú chó Milou phiêu lưu tại Thượng Hải, chống lại đường dây buôn thuốc phiện.",
+  "tags": "phiêu lưu, comic châu Âu, phóng viên, thiếu nhi",
+  "isbn": "9786041269246",
+  "featured": false
+ },
+ {
+  "title": "Thần Đồng Đất Việt - Tập 1",
+  "slug": "than-dong-dat-viet-tap-1",
+  "category": "truyen-tranh-viet",
+  "authors": [
+   "Lê Linh"
+  ],
+  "publisher": "Phan Thị",
+  "year": 2018,
+  "pages": 112,
+  "cover": "than-dong-dat-viet-tap-1.png",
+  "variants": [
+   {
+    "name": "Bản thường",
+    "price": 18000,
+    "original_price": 21000,
+    "stock": 60
+   }
+  ],
+  "description": "Trạng Tí cùng nhóm bạn Sửu Ẹo, Dần Béo, Cả Mẹo với những câu chuyện thông minh dí dỏm lấy cảm hứng từ dân gian Việt Nam.",
+  "tags": "truyện tranh Việt, thiếu nhi, dân gian, hài hước",
+  "isbn": "9786041277165",
+  "featured": false
+ },
+ {
+  "title": "Long Thần Tướng - Tập 1",
+  "slug": "long-than-tuong-tap-1",
+  "category": "truyen-tranh-viet",
+  "authors": [
+   "Nguyễn Thành Phong",
+   "Nguyễn Khánh Dương"
+  ],
+  "publisher": "NXB Kim Đồng",
+  "year": 2019,
+  "pages": 160,
+  "cover": "long-than-tuong-tap-1.png",
+  "variants": [
+   {
+    "name": "Bản thường",
+    "price": 60000,
+    "original_price": 69000,
+    "stock": 60
+   },
+   {
+    "name": "Bản đặc biệt",
+    "price": 80000,
+    "original_price": null,
+    "stock": 15
+   }
+  ],
+  "description": "Truyện tranh Việt Nam lấy bối cảnh lịch sử thời Trần, kể về những trận chiến chống quân Nguyên Mông.",
+  "tags": "truyện tranh Việt, lịch sử Việt Nam, hành động, nhà Trần",
+  "isbn": "9786041285084",
+  "featured": false
+ }
+]
